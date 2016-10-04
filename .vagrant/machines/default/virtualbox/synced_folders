@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"owner":"www-data","group":"www-data","guestpath":"/var/www","hostpath":"/home/spmega4567/working/dev/vagrant/wpdev","disabled":false,"__vagrantfile":true}}}

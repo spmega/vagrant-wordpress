@@ -1,0 +1,54 @@
+[02-Oct-2016 23:18:03 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:18:03 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:18:03 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:18:03 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:18:03 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:18:03 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:22:56 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:22:56 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:22:56 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:22:56 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:22:56 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:22:56 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:23:37 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:23:37 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:23:37 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:23:37 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:23:37 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:23:37 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:28:19 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:28:19 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:28:19 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:28:19 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:28:19 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:28:19 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:38:34 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:38:34 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:38:34 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:38:34 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:38:34 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:38:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:41:34 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:41:34 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:41:34 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:41:34 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:41:34 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:41:34 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:44:15 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:15 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:15 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:15 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:15 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:44:15 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:44:41 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:41 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:41 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:41 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:44:41 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:44:41 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:45:23 UTC] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:45:23 UTC] PHP Notice:  Use of undefined constant DB_PASSWORD - assumed 'DB_PASSWORD' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:45:23 UTC] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:45:23 UTC] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /var/www/html/wp-includes/load.php on line 404
+[02-Oct-2016 23:45:23 UTC] PHP Warning:  mysqli_real_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
+[02-Oct-2016 23:45:23 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /var/www/html/wp-includes/wp-db.php on line 1529
